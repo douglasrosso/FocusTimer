@@ -1,7 +1,7 @@
-<h1> ## ⏱ FocusTimer </h1>
+<h1> ⏱ FocusTimer </h1>
 
 <h1>
-  <img src"./assets/capa.readme.gif">
+  <img src"FocusTimer/assets/capa.readme.gif">
 </h1>
 
 ## 📋 Sobre
