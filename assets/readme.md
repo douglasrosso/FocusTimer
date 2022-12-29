@@ -1,8 +1,6 @@
-<h1> ⏱ FocusTimer </h1>
+<h1 align="center">⏱ FocusTimer </h1>
 
-<h1>
-  <img src"FocusTimer/assets/capa.readme.gif">
-</h1>
+![capa readme](https://user-images.githubusercontent.com/107089633/210022053-91a97964-0b8c-4ac6-aab6-6c0f581c5ceb.gif)
 
 ## 📋 Sobre
 
